@@ -10,7 +10,7 @@ This project analyzes airline customer feedback to identify satisfaction trends,
 - Provides actionable recommendations for improving customer experience
 
 ## Sample Pivot Table Analysis
-![Satisfaction Level Analysis](https://github.com/lekhanaraj/AirlineAnalysis/blob/main/images/Satisfication_level_anlysis_using_pivot_table.png)
+![Satisfaction Level Analysis](https://github.com/lekhanaraj/AirlineAnalysis/blob/main/images/Satisfication_level_anlysis_using_pivot_table.png.png)
 
 ## Project Structure
 - `data/` : Contains raw and processed data files
